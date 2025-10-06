@@ -1,5 +1,3 @@
-package com.Rahul.day39;
-
 public class PyramidPattern {
     public static void main(String[] args) {
         int n = 4;
