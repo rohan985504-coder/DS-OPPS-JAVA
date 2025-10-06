@@ -1,4 +1,3 @@
-package com.Rahul.day38;
 import java.util.Scanner;
 public class EvenOrOdd {
     public static void main(String[] args) {
