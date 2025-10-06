@@ -1,5 +1,3 @@
-package com.Rahul.day39;
-
 public class NumberGreaterThan5 {
     public static void main(String[] args) {
         int i = 1;
