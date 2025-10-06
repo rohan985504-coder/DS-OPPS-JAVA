@@ -1,11 +1,3 @@
-package com.Rahul.day38;
-
-//Explain the difference between while and do-while loops with code
-//examples.
-
-// Answer the while loop firstly checks the condition and then executes the block of code
-// Do-while loop executes the code once and then check the condition for executing further
-
 public class DifferenceBwDowhileAndWhile {
     public static void main(String[] args) {
         System.out.println("While loop: ");
